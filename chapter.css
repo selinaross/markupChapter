@@ -1,0 +1,26 @@
+div {
+    width: 50%;
+    margin: 0 auto;
+}
+p   {
+    text-indent: 3em;
+}
+.chapter h1 {
+    border-bottom: 12px double #000;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+pre {
+    font-family: Arial, sans-serif;
+}
+h2 {
+    font-family: Arial, sans-serif;
+    border-bottom: 12px double #000;
+    text-align: center;
+}
+.TableOfContents h1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
